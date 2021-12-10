@@ -12,9 +12,11 @@
 #################################
 */Content/_Game/Images/HDRI
 */Content/ParagonLtBelica
+Solar_Seas/Content/_Game/Assets/
 #################################
 # Visual Studio Files		#
 #################################
 *.VC.db
 *.suo
 */.vs
+
