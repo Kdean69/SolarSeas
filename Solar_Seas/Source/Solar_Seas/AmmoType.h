@@ -6,6 +6,6 @@ UENUM(BlueprintType)
 enum class EAmmoType : uint8
 {
 	EAT_9mm UMETA(DisplayName = "9mm"),
-	EAT_AR UMETA(DisplayName = "Assult Rife"),
+	EAT_SMG UMETA(DisplayName = "SMG"),
 	EAT_MAX UMETA(DisplayName = "DefaultMAX"),
 };
